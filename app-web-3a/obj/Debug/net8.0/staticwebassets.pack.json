@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\IFRO.JP-ALUNOS\\Downloads\\app-web-3a (1)\\app-web-3a\\app-web-3a\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AppWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\IFRO.JP-ALUNOS\\Downloads\\app-web-3a (1)\\app-web-3a\\app-web-3a\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\IFRO.JP-ALUNOS\\Downloads\\app-web-3a (1)\\app-web-3a\\app-web-3a\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\IFRO.JP-ALUNOS\\Downloads\\app-web-3a (1)\\app-web-3a\\app-web-3a\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\IFRO.JP-ALUNOS\\Downloads\\app-web-3a (1)\\app-web-3a\\app-web-3a\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\IFRO.JP-ALUNOS\\Downloads\\app-web-3a (1)\\app-web-3a\\app-web-3a\\wwwroot\\perfil.jpeg",
+      "PackagePath": "staticwebassets\\perfil.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\IFRO.JP-ALUNOS\\Downloads\\app-web-3a (1)\\app-web-3a\\app-web-3a\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AppWeb.props",
+      "PackagePath": "build\\AppWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AppWeb.props",
+      "PackagePath": "buildMultiTargeting\\AppWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AppWeb.props",
+      "PackagePath": "buildTransitive\\AppWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

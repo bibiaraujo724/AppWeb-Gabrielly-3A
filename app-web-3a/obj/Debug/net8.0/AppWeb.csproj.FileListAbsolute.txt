@@ -1,0 +1,159 @@
+C:\Users\2023102020017\Documents\AppWeb\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\2023102020017\Documents\AppWeb\bin\Debug\net8.0\appsettings.json
+C:\Users\2023102020017\Documents\AppWeb\bin\Debug\net8.0\AppWeb.staticwebassets.runtime.json
+C:\Users\2023102020017\Documents\AppWeb\bin\Debug\net8.0\AppWeb.staticwebassets.endpoints.json
+C:\Users\2023102020017\Documents\AppWeb\bin\Debug\net8.0\AppWeb.exe
+C:\Users\2023102020017\Documents\AppWeb\bin\Debug\net8.0\AppWeb.deps.json
+C:\Users\2023102020017\Documents\AppWeb\bin\Debug\net8.0\AppWeb.runtimeconfig.json
+C:\Users\2023102020017\Documents\AppWeb\bin\Debug\net8.0\AppWeb.dll
+C:\Users\2023102020017\Documents\AppWeb\bin\Debug\net8.0\AppWeb.pdb
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\AppWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\AppWeb.AssemblyInfoInputs.cache
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\AppWeb.AssemblyInfo.cs
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\AppWeb.csproj.CoreCompileInputs.cache
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\AppWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\scopedcss\bundle\AppWeb.styles.css
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\scopedcss\projectbundle\AppWeb.bundle.scp.css
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\staticwebassets\msbuild.AppWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\staticwebassets\msbuild.AppWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.AppWeb.props
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppWeb.props
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppWeb.props
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\AppWeb.dll
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\refint\AppWeb.dll
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\AppWeb.pdb
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\AppWeb.genruntimeconfig.cache
+C:\Users\2023102020017\Documents\AppWeb\obj\Debug\net8.0\ref\AppWeb.dll
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\bin\Debug\net8.0\appsettings.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\bin\Debug\net8.0\AppWeb.staticwebassets.endpoints.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\bin\Debug\net8.0\AppWeb.staticwebassets.runtime.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\bin\Debug\net8.0\AppWeb.exe
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\bin\Debug\net8.0\AppWeb.deps.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\bin\Debug\net8.0\AppWeb.runtimeconfig.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\bin\Debug\net8.0\AppWeb.dll
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\bin\Debug\net8.0\AppWeb.pdb
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\AppWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\AppWeb.AssemblyInfoInputs.cache
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\AppWeb.AssemblyInfo.cs
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\AppWeb.csproj.CoreCompileInputs.cache
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\AppWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\AppWeb.sourcelink.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\scopedcss\bundle\AppWeb.styles.css
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\scopedcss\projectbundle\AppWeb.bundle.scp.css
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\AppWeb.dll
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\refint\AppWeb.dll
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\AppWeb.pdb
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\AppWeb.genruntimeconfig.cache
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\ref\AppWeb.dll
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\2023102020017\Documents\GitHub\app-web-3a\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\bin\Debug\net8.0\appsettings.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.staticwebassets.runtime.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.exe
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.deps.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.runtimeconfig.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.dll
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.pdb
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.AssemblyInfoInputs.cache
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.AssemblyInfo.cs
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.csproj.CoreCompileInputs.cache
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.sourcelink.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets\msbuild.AppWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets\msbuild.build.AppWeb.props
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppWeb.props
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppWeb.props
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\bundle\AppWeb.styles.css
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\projectbundle\AppWeb.bundle.scp.css
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.dll
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\refint\AppWeb.dll
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.pdb
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.genruntimeconfig.cache
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a\app-web-3a\obj\Debug\net8.0\ref\AppWeb.dll
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\bin\Debug\net8.0\appsettings.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.staticwebassets.runtime.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.staticwebassets.endpoints.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.exe
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.deps.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.runtimeconfig.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.dll
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.pdb
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.AssemblyInfoInputs.cache
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.AssemblyInfo.cs
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.csproj.CoreCompileInputs.cache
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.sourcelink.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\bundle\AppWeb.styles.css
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\projectbundle\AppWeb.bundle.scp.css
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.dll
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\refint\AppWeb.dll
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.pdb
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.genruntimeconfig.cache
+C:\Users\2023102020017\Downloads\app-web-3a\app-web-3a\app-web-3a\obj\Debug\net8.0\ref\AppWeb.dll
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\bin\Debug\net8.0\appsettings.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.staticwebassets.runtime.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.exe
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.deps.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.runtimeconfig.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.dll
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\bin\Debug\net8.0\AppWeb.pdb
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.AssemblyInfoInputs.cache
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.AssemblyInfo.cs
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.csproj.CoreCompileInputs.cache
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.sourcelink.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets\msbuild.AppWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets\msbuild.build.AppWeb.props
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppWeb.props
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppWeb.props
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\bundle\AppWeb.styles.css
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\scopedcss\projectbundle\AppWeb.bundle.scp.css
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.dll
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\refint\AppWeb.dll
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.pdb
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\AppWeb.genruntimeconfig.cache
+C:\Users\IFRO.JP-ALUNOS\Downloads\app-web-3a (1)\app-web-3a\app-web-3a\obj\Debug\net8.0\ref\AppWeb.dll
